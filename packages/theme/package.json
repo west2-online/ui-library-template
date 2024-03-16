@@ -1,0 +1,9 @@
+{
+  "name": "@west2ui/theme",
+  "version": "0.0.1",
+  "description": "练习了2年半的高性能组件库样式",
+  "main": "index.css",
+  "scripts": {
+    
+  }
+}
